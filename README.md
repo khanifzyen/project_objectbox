@@ -1,16 +1,22 @@
 # project_objectbox
 
-A new Flutter project.
+A new Flutter project using [objectbox](https://pub.dev/packages/objectbox)
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+1. Clone this project
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/khanifzyen/project_objectbox
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Move to branch 01-starting-code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git checkout -b 01-starting-code
+git pull origin 01-starting-code
+```
+
+3. Follow the Tutorial
+
+CRUD Operation
